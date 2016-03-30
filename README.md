@@ -1,6 +1,6 @@
-# LiGuxTask - A task library for do background jobs
+# LiGuxTask - A task library for doing background jobs
 
-LiGuxTask is a library which influenced by Volley library. You can do background job like Volley style
+LiGuxTask is a library which influenced by Volley library. You can do background job like Volley style. The basis is thread pool.
 
 
 The simple way to get the TaskQueue as the following:
