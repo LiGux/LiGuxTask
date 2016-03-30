@@ -20,3 +20,6 @@ taskQueue.stop()
 
 This will try to interrupt all background threads in the thread pool.
 
+## TODO: 
++ add maven repository 
++ add more features
